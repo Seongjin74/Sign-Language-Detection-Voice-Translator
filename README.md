@@ -11,7 +11,6 @@
          <ul>
             <li><a href="#high-level-diagram">High Level Diagram</a></li>
             <li><a href="#low-level-diagram">Low Level Diagram</a></li>
-           <li><a href="#workflow">Workflow</a></li>
          </ul>
       </ul>
     </li>
@@ -78,9 +77,6 @@ Dependency lists for the project
 
 #### Low Level Diagram
 <img src="https://www.planttext.com/api/plantuml/png/ZL1B2W8n3DtdBl48OK2NpahtfRHP53jDQLF1sskd0oA3w2OlxmC9RwfgYxOb0XnZuAH89t4tBZ00gRHqo0yOWDH2P-j4MaI39EDirbQu6pi5AHTnN6jttolI-NATpIoUOtS-69AtQYihRFWZ_UN2Nz_T9JWsMcogqUgQsaj8eno0YPD_jVK4"></img>
-
-#### Workflow 
-<img src="https://github.com/HoyeonS/SLDVT/blob/hoyeon.detect-feature/Workflow.jpeg"></img>
 
 
 ## Getting Started
